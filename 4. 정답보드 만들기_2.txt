@@ -13,7 +13,7 @@ initialize_board_9x9를 함수를 보면
 
 	return [row1, row2, row3, row4, row5, row6, row7, row8, row9]
 
-각 가로줄이 리스트의 객채로써 반환된다. 우선 가로줄을 3개씩 나누어 top, middle, bottom 변수에 저장한다.
+각 가로줄이 리스트의 인자로써 반환된다. 우선 가로줄을 3개씩 나누어 top, middle, bottom 변수에 저장한다.
 
 그런 다음 random 모듈의 random.shuffle() 프로시저를 이용해
 1, 2, 3번 라인 / 4, 5, 6번 라인 / 7, 8, 9번 라인끼리 무작위로 섞어준다.
