@@ -1,4 +1,4 @@
-def transpose(board):
+def transpose(board): 
     transposed = []
     size = len(board)
     for _ in range(size):
