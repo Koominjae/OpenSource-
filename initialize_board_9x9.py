@@ -1,0 +1,11 @@
+def initialize_board_9x9():
+    row0 = [1,2,3,4,5,6,7,8,9]
+    row1 = row0[3:6] + row0[6:9] + row0[0:3]
+    row2 = row1[3:6] + row1[6:9] + row1[0:3]
+    row3 = [row0[1], row0[2], row0[0], row0[4], row0[5], row0[3], row0[7], row0[8], row0[6]]
+    row4 = row3[3:6] + row3[6:9] + row3[0:3]
+    row5 = row4[3:6] + row4[6:9] + row4[0:3]
+    row6 = [row3[1], row3[2], row3[0], row3[4], row3[5], row3[3], row3[7], row3[8], row3[6]]
+    row7 = row6[3:6] + row6[6:9] + row6[0:3]
+    row8 = row7[3:6] + row7[6:9] + row7[0:3]
+    return [row0, row1, row2, row3, row4, row5, row6, row7, row8]
