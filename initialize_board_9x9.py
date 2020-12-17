@@ -1,5 +1,6 @@
 def initialize_board_9x9():
     row1 = [1,2,3,4,5,6,7,8,9]
+    random.shuffle(row1)
     row2 = row1[3:6] + row1[6:9] + row1[0:3]
     row3 = row2[3:6] + row2[6:9] + row2[0:3]
     row4 = [row1[1], row1[2], row1[0], row1[4], row1[5], row1[3], row1[7], row1[8], row1[6]]
