@@ -28,17 +28,18 @@
 텍스트 문서를 통해 각 함수를 소개하고있다.   
 
 1. 개요
-   - [스도쿠 프로그램 만들기](https://github.com/Koominjae/OpenSource-/blob/master/0.%20%EC%8A%A4%EB%8F%84%EC%BF%A0%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EB%A7%8C%EB%93%A4%EA%B8%B0.txt)
-   - [기능 (브레인스토밍)](https://github.com/Koominjae/OpenSource-/blob/master/1.%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%97%90%20%ED%95%84%EC%9A%94%ED%95%9C%20%EA%B8%B0%EB%8A%A5.txt)
+   - [스도쿠 프로그램 만들기](https://github.com/Koominjae/OpenSource_Final/blob/master/%EA%B0%9C%EC%9A%94/0.%20%EC%8A%A4%EB%8F%84%EC%BF%A0%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EB%A7%8C%EB%93%A4%EA%B8%B0.txt)
+   - [기능 (브레인 스토밍)](https://github.com/Koominjae/OpenSource_Final/blob/master/%EA%B0%9C%EC%9A%94/1.%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%97%90%20%ED%95%84%EC%9A%94%ED%95%9C%20%EA%B8%B0%EB%8A%A5.txt)
 2. 정답보드
-   - 정답보드 만들기 [1](https://github.com/Koominjae/OpenSource-/blob/master/2-1.%20%EC%A0%95%EB%8B%B5%EB%B3%B4%EB%93%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0_1.txt)[(코드)](https://github.com/Koominjae/OpenSource-/blob/master/initialize_board_9x9.py), [2](https://github.com/Koominjae/OpenSource-/blob/master/2-2.%20%EC%A0%95%EB%8B%B5%EB%B3%B4%EB%93%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0_2.txt)[(코드)](https://github.com/Koominjae/OpenSource-/blob/master/shuffle_ribbons.py), [3](https://github.com/Koominjae/OpenSource-/blob/master/2-3.%20%EC%A0%95%EB%8B%B5%EB%B3%B4%EB%93%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0_3.txt)[(코드)](https://github.com/Koominjae/OpenSource-/blob/master/transpose.py)
-   - [완성](https://github.com/Koominjae/OpenSource-/blob/master/2-4.%20%EC%A0%95%EB%8B%B5%EB%B3%B4%EB%93%9C%20%EC%99%84%EC%84%B1.txt)[(코드)](https://github.com/Koominjae/OpenSource-/blob/master/creat_solution_board_9x9.py)
-3. [구체적 알고리즘 구상](https://github.com/Koominjae/OpenSource-/blob/master/3.%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B5%AC%EC%83%81.txt)
-4. [정답보드 복제](https://github.com/Koominjae/OpenSource-/blob/master/4.%20%EC%A0%95%EB%8B%B5%EB%B3%B4%EB%93%9C%20%EB%B3%B5%EC%A0%9C%ED%95%98%EA%B8%B0.txt)[(코드)](https://github.com/Koominjae/OpenSource-/blob/master/copy_board.py)
+   - 정답보드 만들기 [1](https://github.com/Koominjae/OpenSource_Final/blob/master/%EC%A0%95%EB%8B%B5%EB%B3%B4%EB%93%9C/2-1.%20%EC%A0%95%EB%8B%B5%EB%B3%B4%EB%93%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0_1.txt), [2](https://github.com/Koominjae/OpenSource_Final/blob/master/%EC%A0%95%EB%8B%B5%EB%B3%B4%EB%93%9C/2-2.%20%EC%A0%95%EB%8B%B5%EB%B3%B4%EB%93%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0_2.txt), [3](https://github.com/Koominjae/OpenSource_Final/blob/master/%EC%A0%95%EB%8B%B5%EB%B3%B4%EB%93%9C/2-3.%20%EC%A0%95%EB%8B%B5%EB%B3%B4%EB%93%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0_3.txt)
+   - [완성](https://github.com/Koominjae/OpenSource_Final/blob/master/%EC%A0%95%EB%8B%B5%EB%B3%B4%EB%93%9C/2-4.%20%EC%A0%95%EB%8B%B5%EB%B3%B4%EB%93%9C%20%EC%99%84%EC%84%B1.txt)
+3. [구체적 알고리즘 구상](https://github.com/Koominjae/OpenSource_Final/blob/master/%EA%B0%9C%EC%9A%94/3.%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B5%AC%EC%83%81.txt)
+4. [정답보드 복제](https://github.com/Koominjae/OpenSource_Final/blob/master/%EC%A0%95%EB%8B%B5%EB%B3%B4%EB%93%9C/4.%20%EC%A0%95%EB%8B%B5%EB%B3%B4%EB%93%9C%20%EB%B3%B5%EC%A0%9C%ED%95%98%EA%B8%B0.txt)
 5. 난이도
-   - [입력](https://github.com/Koominjae/OpenSource-/blob/master/5-1.%20%EB%82%9C%EC%9D%B4%EB%8F%84%20%EC%9E%85%EB%A0%A5.txt)[(코드)](https://github.com/Koominjae/OpenSource-/blob/master/get_level.py)
-   - [빈칸](https://github.com/Koominjae/OpenSource-/blob/master/5-2.%20%EB%B9%88%EC%B9%B8%20%EC%83%9D%EC%84%B1.txt)[(코드)](https://github.com/Koominjae/OpenSource-/blob/master/make_holes.py)
-6. [퍼즐보드](https://github.com/Koominjae/OpenSource-/blob/master/6.%20%ED%8D%BC%EC%A6%90%EB%B3%B4%EB%93%9C%20%EB%B3%B4%EC%97%AC%EC%A3%BC%EA%B8%B0.txt)[(코드)](https://github.com/Koominjae/OpenSource-/blob/master/show_board.py)
-7. [숫자 입력](https://github.com/Koominjae/OpenSource-/blob/master/7.%20%EC%88%AB%EC%9E%90%20%EC%9E%85%EB%A0%A5%EB%B0%9B%EA%B8%B0.txt)[(코드)](https://github.com/Koominjae/OpenSource-/blob/master/get_integer.py)
-8. [메인 함수](https://github.com/Koominjae/OpenSource-/blob/master/8.%20%EB%A9%94%EC%9D%B8%20%ED%95%A8%EC%88%98.txt)[(코드)](https://github.com/Koominjae/OpenSource-/blob/master/sudoku.py)
-9. [최종 프로그램](https://github.com/Koominjae/OpenSource-/blob/master/9.%20%EC%B5%9C%EC%A2%85.txt)[(코드)](https://github.com/Koominjae/OpenSource-/blob/master/sudoku_9x9.py)
+   - [난이도 입력](https://github.com/Koominjae/OpenSource_Final/blob/master/%EB%82%9C%EC%9D%B4%EB%8F%84/5-1.%20%EB%82%9C%EC%9D%B4%EB%8F%84%20%EC%9E%85%EB%A0%A5.txt)
+   - [빈칸 생성](https://github.com/Koominjae/OpenSource_Final/blob/master/%EB%82%9C%EC%9D%B4%EB%8F%84/5-2.%20%EB%B9%88%EC%B9%B8%20%EC%83%9D%EC%84%B1.txt)
+6. 퍼즐보드
+   - [퍼즐보드 보여주기](https://github.com/Koominjae/OpenSource_Final/blob/master/%ED%8D%BC%EC%A6%90%EB%B3%B4%EB%93%9C/6.%20%ED%8D%BC%EC%A6%90%EB%B3%B4%EB%93%9C%20%EB%B3%B4%EC%97%AC%EC%A3%BC%EA%B8%B0.txt)
+   - [숫자 입력](https://github.com/Koominjae/OpenSource_Final/blob/master/%ED%8D%BC%EC%A6%90%EB%B3%B4%EB%93%9C/7.%20%EC%88%AB%EC%9E%90%20%EC%9E%85%EB%A0%A5%EB%B0%9B%EA%B8%B0.txt)
+7. [메인](https://github.com/Koominjae/OpenSource_Final/blob/master/%EC%B5%9C%EC%A2%85/8.%20%EB%A9%94%EC%9D%B8%20%ED%95%A8%EC%88%98.txt)
+8. [최종 통합본](https://github.com/Koominjae/OpenSource_Final/blob/master/%EC%B5%9C%EC%A2%85/9.%20%EC%B5%9C%EC%A2%85.txt)
