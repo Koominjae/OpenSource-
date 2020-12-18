@@ -1,4 +1,4 @@
-def sudoku():
+def sudoku(): 
     solution_board = create_solution_board_9x9()
     puzzle_board = copy_board(solution_board)
     no_of_holes = get_level()
