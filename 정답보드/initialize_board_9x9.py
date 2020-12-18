@@ -1,4 +1,4 @@
-def initialize_board_9x9(): 
+def initialize_board_9x9():
     row1 = [1,2,3,4,5,6,7,8,9]
     random.shuffle(row1)
     row2 = row1[3:6] + row1[6:9] + row1[0:3]
