@@ -4,6 +4,6 @@ def transpose(board):
     for _ in range(size):
         transposed.append([])
     for row in board:
-        for i in range(size):
+        for i in range(size): 
             transposed[i].append(row[i])
     return transposed
